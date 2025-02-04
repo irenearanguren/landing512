@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg
+PUBLIC "-//W3C//DTD SVG 1.1//EN"
+       "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="42 11 827 418" width="785px" height="407px" xmlns="http://www.w3.org/2000/svg" version="1.1">
+   <line x1="482" y1="345" x2="492" y2="345" style="stroke:#333;stroke-width:1;"/>
+   <line x1="693" y1="306" x2="703" y2="306" style="stroke:#333;stroke-width:1;"/>
+   <line x1="492" y1="345" x2="693" y2="306" style="stroke:#333;stroke-width:1;"/>
+   <line x1="489.5" y1="345" x2="485.96446609407" y2="348.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="489.5" y1="345" x2="485.96446609407" y2="341.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="698" y1="306" x2="694.46446609407" y2="309.53553390593" style="stroke:#333;stroke-width:2;"/>
+   <line x1="698" y1="306" x2="694.46446609407" y2="302.46446609407" style="stroke:#333;stroke-width:2;"/>
+   <line x1="370" y1="325" x2="360" y2="325" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="190" y1="273" x2="180" y2="273" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="360" y1="325" x2="190" y2="273" style="stroke:#0b0;stroke-width:1;"/>
+   <line x1="362.5" y1="325" x2="366.03553390593" y2="328.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="362.5" y1="325" x2="366.03553390593" y2="321.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="185" y1="273" x2="188.53553390593" y2="276.53553390593" style="stroke:#0b0;stroke-width:2;"/>
+   <line x1="185" y1="273" x2="188.53553390593" y2="269.46446609407" style="stroke:#0b0;stroke-width:2;"/>
+   <rect width="109" height="20" x="703" y="276" style="fill:#007;stroke:black;"/>
+   <text width="109" height="20" x="708" y="290" style="fill:#fff;" font-family="Arial" font-size="16px"> mas_categoria</text>
+   <rect width="109" height="20" x="703" y="296" style="fill:#aea;stroke:black;"/>
+   <text width="109" height="20" x="708" y="310" style="fill:black;" font-family="Arial" font-size="16px">id_cat</text>
+   <rect width="109" height="20" x="703" y="316" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="708" y="330" style="fill:black;" font-family="Arial" font-size="16px">nom_cat</text>
+   <rect width="109" height="20" x="703" y="336" style="fill:none;stroke:black;"/>
+   <text width="109" height="20" x="708" y="350" style="fill:black;" font-family="Arial" font-size="16px">tip_cat</text>
+   <rect width="114" height="20" x="66" y="243" style="fill:#007;stroke:black;"/>
+   <text width="114" height="20" x="71" y="257" style="fill:#fff;" font-family="Arial" font-size="16px"> mas_productos</text>
+   <rect width="114" height="20" x="66" y="263" style="fill:#aea;stroke:black;"/>
+   <text width="114" height="20" x="71" y="277" style="fill:black;" font-family="Arial" font-size="16px">id_pro</text>
+   <rect width="114" height="20" x="66" y="283" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="297" style="fill:black;" font-family="Arial" font-size="16px">cod_pro</text>
+   <rect width="114" height="20" x="66" y="303" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="317" style="fill:black;" font-family="Arial" font-size="16px">nom_cod</text>
+   <rect width="114" height="20" x="66" y="323" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="337" style="fill:black;" font-family="Arial" font-size="16px">est_pro</text>
+   <rect width="114" height="20" x="66" y="343" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="357" style="fill:black;" font-family="Arial" font-size="16px">pre_pro</text>
+   <rect width="114" height="20" x="66" y="363" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="377" style="fill:black;" font-family="Arial" font-size="16px">img_pro</text>
+   <rect width="114" height="20" x="66" y="383" style="fill:none;stroke:black;"/>
+   <text width="114" height="20" x="71" y="397" style="fill:black;" font-family="Arial" font-size="16px">pes_pro</text>
+   <rect width="112" height="20" x="370" y="275" style="fill:#007;stroke:black;"/>
+   <text width="112" height="20" x="375" y="289" style="fill:#fff;" font-family="Arial" font-size="16px"> mas_prod_cate</text>
+   <rect width="112" height="20" x="370" y="295" style="fill:#aea;stroke:black;"/>
+   <text width="112" height="20" x="375" y="309" style="fill:black;" font-family="Arial" font-size="16px">id_pro_cat</text>
+   <rect width="112" height="20" x="370" y="315" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="375" y="329" style="fill:black;" font-family="Arial" font-size="16px">id_pro</text>
+   <rect width="112" height="20" x="370" y="335" style="fill:none;stroke:black;"/>
+   <text width="112" height="20" x="375" y="349" style="fill:black;" font-family="Arial" font-size="16px">id_cat</text>
+   <rect width="136" height="20" x="303" y="34" style="fill:#007;stroke:black;"/>
+   <text width="136" height="20" x="308" y="48" style="fill:#fff;" font-family="Arial" font-size="16px"> mov_precios_dolar</text>
+   <rect width="136" height="20" x="303" y="54" style="fill:#aea;stroke:black;"/>
+   <text width="136" height="20" x="308" y="68" style="fill:black;" font-family="Arial" font-size="16px">id_pre</text>
+   <rect width="136" height="20" x="303" y="74" style="fill:none;stroke:black;"/>
+   <text width="136" height="20" x="308" y="88" style="fill:black;" font-family="Arial" font-size="16px">pre_ref</text>
+   <rect width="136" height="20" x="303" y="94" style="fill:none;stroke:black;"/>
+   <text width="136" height="20" x="308" y="108" style="fill:black;" font-family="Arial" font-size="16px">pre_fec</text>
+   <rect width="77" height="20" x="57" y="26" style="fill:#007;stroke:black;"/>
+   <text width="77" height="20" x="62" y="40" style="fill:#fff;" font-family="Arial" font-size="16px"> mov_user</text>
+   <rect width="77" height="20" x="57" y="46" style="fill:#aea;stroke:black;"/>
+   <text width="77" height="20" x="62" y="60" style="fill:black;" font-family="Arial" font-size="16px">id_user</text>
+   <rect width="77" height="20" x="57" y="66" style="fill:none;stroke:black;"/>
+   <text width="77" height="20" x="62" y="80" style="fill:black;" font-family="Arial" font-size="16px">nom_user</text>
+   <rect width="77" height="20" x="57" y="86" style="fill:none;stroke:black;"/>
+   <text width="77" height="20" x="62" y="100" style="fill:black;" font-family="Arial" font-size="16px">pas_user</text>
+</svg>

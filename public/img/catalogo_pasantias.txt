@@ -1,0 +1,56 @@
+===Database catalogo_pasantias
+
+== Table structure for table mas_categoria
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_cat**//|int(11)|No|
+|**nom_cat**|varchar(20)|No|
+|tip_cat|varchar(30)|No|
+== Dumping data for table mas_categoria
+
+== Table structure for table mas_productos
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_pro**//|int(11)|No|
+|**cod_pro**|varchar(20)|No|
+|nom_cod|varchar(40)|No|
+|est_pro|varchar(15)|No|
+|pre_pro|decimal(5,2)|No|
+|img_pro|varchar(200)|No|
+|pes_pro|decimal(5,2)|No|
+== Dumping data for table mas_productos
+
+== Table structure for table mas_prod_cate
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_pro_cat**//|int(11)|No|
+|id_pro|int(11)|No|
+|id_cat|int(11)|No|
+== Dumping data for table mas_prod_cate
+
+== Table structure for table mov_precios_dolar
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_pre**//|int(11)|No|
+|pre_ref|decimal(5,2)|No|
+|pre_fec|date|No|
+== Dumping data for table mov_precios_dolar
+
+== Table structure for table mov_user
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id_user**//|int(11)|No|
+|nom_user|varchar(20)|No|
+|pas_user|varchar(200)|Yes|NULL
+== Dumping data for table mov_user
+
