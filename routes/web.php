@@ -1,5 +1,6 @@
 <?php
 
+
 use App\Http\Controllers\ClientController;
 use App\Http\Controllers\Controller;
 use App\Http\Controllers\indexController;
@@ -7,7 +8,6 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\ProductController;
 use App\Http\Controllers\OrderController;
 use App\Http\Controllers\CategoryController;
-use App\Http\Controllers\adminController;
 use Illuminate\Routing\RouteGroup;
 use Illuminate\Support\Facades\Route;
 
@@ -56,5 +56,6 @@ Route::middleware(['auth', 'admin'])->group(function () {
     Route::put('/admin/categories/{id}/editar', [CategoryController::class, 'update'])->name('admin.categories.update');
     Route::delete('/admin/categories/delete/{id}', [CategoryController::class, 'destroy'])->name('admin.categories.destroy');
 
-    Route::get('/admin/pedidos', [adminController::class, 'presupuestoTable'])->name('admin.orders');
+    Route::get('/admin/pedidos', [OrderController::class, 'presupuestoTable'])->name('admin.orders');
 });
+
